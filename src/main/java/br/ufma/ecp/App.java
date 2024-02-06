@@ -24,6 +24,8 @@ public class App
       42 ola
 
       let x = 21;
+
+      println("kkkkk");
       
       """;
     Scanner scan = new Scanner (input.getBytes());
